@@ -2,6 +2,7 @@ import 'dart:math';
 import 'dart:ui';
 
 import 'package:demo_one/edge_glow_shader.dart';
+import 'package:demo_one/modern_voice.dart';
 import 'package:demo_one/painter_d.dart';
 import 'package:demo_one/shaders_to.dart';
 import 'package:flutter/material.dart';
@@ -27,7 +28,8 @@ class MyApp extends StatelessWidget {
       // home: ShaderExample(
       //   programShader: fprogram,
       // ),
-      home: EdgeGlowShaderExample(),
+      // home: EdgeGlowShaderExample(),
+      home: ModernVoiceUI(),
     );
   }
 }
