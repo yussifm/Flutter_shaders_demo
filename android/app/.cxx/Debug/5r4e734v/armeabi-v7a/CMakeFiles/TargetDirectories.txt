@@ -1,0 +1,2 @@
+D:/Work/AI_Hackton_/demo_test_projects/demo_one/android/app/.cxx/Debug/5r4e734v/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Work/AI_Hackton_/demo_test_projects/demo_one/android/app/.cxx/Debug/5r4e734v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
